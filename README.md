@@ -1,2 +1,2 @@
 # SQL-mini-projects
- This project focused on understanding how often products move (bin turnover), what average mark-up they're generating, and whether there's any relationship between product movement and profitability.
+ These SQL Projects will mainly focus on the usage of sql basics functions such as aggregate, date, Filter, Grouping and Creation of databases Functions that can be utilised on any Business Databases for Further analysis along with better efficiencies. 
